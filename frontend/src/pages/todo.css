@@ -11,7 +11,7 @@ body {
 
 .list-item {
     display: flex;
-    border-radius: 20px;
+    border-radius: 8px;
     margin: 10px 0;
     padding: 10px 20px;
     background-color: #FCFFE7;
